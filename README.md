@@ -7,8 +7,4 @@ The reason for this project was to create a backend for an e-commerce website us
 ## Usage
  
 demo video
-
-
-## Screenshots
-![Start up page](./public/assets/images/1.png)
-![Note taking page](./public/assets/images/2.png)
+https://drive.google.com/file/d/1-661c80oL8ifVgCjsQkgc98GRM_C-0kp/view?usp=sharing
